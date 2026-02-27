@@ -1,30 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg" tvg-id="CHD-TV RU Rock HD" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
 
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg" tvg-id="CHD-TV Rock" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" tvg-id="СоюзМультфильм" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="Чип и Дейл" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PvmC26Pg/ru-dtrzona1.png" tvg-id="DTR Zona 1" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",DTR Zona 1
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PvmC26Pg/ru-dtrzona1.png",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" tvg-id="ITV Cinema" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",ITV Cinema
-https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" tvg-id="ITV Music" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",ITV Music
-https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="Film UA Drama" tvg-url="https://epg.pw/xmltv/epg_UA.xml.gz",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png" tvg-id="Cirque du Soleil" tvg-url="https://i.mjh.nz/PlutoTV/ru/epg.xml.gz",Cirque du Soleil
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/MDmGTJJq/Dim-Grad24.png" tvg-id="ДимГрад 24" tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz",ДимГрад 24
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/MDmGTJJq/Dim-Grad24.png" , ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://epg.iptvx.one/picons/patriot.png" , Патриот
+http://185.46.48.18:80/asvtv/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" , Deutsche Welle Russia
+https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://epg.iptvx.one/picons/ua-pershy.png", UA:Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://epg.iptvx.one/picons/my-ukraina.png", Ми - Україна
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/gZh1TtVV/O2tvlogo.png",O2TV
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/j9tVLnv7/mcm.png",MCM HD
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/tuva24.png",Тува 24
+http://vod.tuva.ru/tuva24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/DPMMv8mk/ovaa.png",OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/4kanal-piatnica.png",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/prima.png",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Сириус" tvg-logo="https://i.ibb.co/kV1qXdLX/oplot-2.png",Оплот 2
+http://31.131.141.195:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png",Приключения HD
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/7J2sN2dv/24-KZ-logo-svg-1.png",Казахстан 24
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/ZR92VkxC/zor.png", Zor TV HD
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/hjGNsbq/Uzbekiston.png",Uzbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://epg.iptvx.one/picons/trt-muzik-tr.png",TRT MÜZİK [TR]
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/TMwg0yJj/Toshkent.png",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/TxCK7F9Q/Sevimili.png",Sevimili UZ
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://epg.iptvx.one/picons/qazaqstan-int.png",QAZAQSTAN HD Int
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/0y9yJGhb/ntv-uz.png",Ntv UZ
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/vCpSLvc9/Myday-TV-1.png",Myday TV
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
