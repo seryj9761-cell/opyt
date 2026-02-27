@@ -48,15 +48,51 @@ https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/vCpSLvc9/Myday-TV-1.png",Myday TV
 https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/s9c2qGnK/Mahalla.png",Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/wrYHt54H/Madaniyat-va-marifat.png",Madaniyat va marifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://epg.iptvx.one/picons/futbol-tv-uz.png",Futbol TV Telekanali [UZ]
+https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/dw80dgFz/biz-cinema.png",Biz Cinema UZ
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media" tvg-logo="https://i.ibb.co/qMRkBF48/Biz-TV.png",BizTV HD UZ
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/1f2Ckr4z/Uzreport.webp",Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/KzNctsF8/Turkmenistan-Sport.png",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/4wjbvD0y/horseandcountry.png",Horse and Country TV
+https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/jZ5pjGGw/bek.png",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png", Sky Sport 1 [NZ]
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png", Sky Sport 2 [NZ]
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/sky-sports-maine.png", Sky Sports Main Event [UK]
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/sky-sports-news.png", Sky Sports News [UK]
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png", Sky Sports Premier League [UK]
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/spf6jXyj/Wired2-fish-m.png",Wired2Fish
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://epg.iptvx.one/picons/fight-network-us.png",Fight Network [US]
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/7d7.png",Just TV
+https://nw.foreman.pp.ua/1/live/stream.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://epg.iptvx.one/picons/rentv-istoki.png",Истоки
+https://istoki.tv//live/stream1/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/rodnoy-kanal.png",Родной канал
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/pervy-yaroslavsky.png",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-stavropol.png",Своё ТВ Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/rgvk-dagestan.png",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://epg.iptvx.one/picons/tbn-ru.png",ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
