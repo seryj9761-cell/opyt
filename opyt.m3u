@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U url-tvg="http://only4.tv/epg/epg.xml"
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PvmC26Pg/ru-dtrzona1.png",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/MDmGTJJq/Dim-Grad24.png" , ДимГрад 24
@@ -13,7 +12,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://epg.iptvx.one/picons/my-ukraina.png", Ми - Україна
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/gZh1TtVV/O2tvlogo.png",O2TV
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/gZh1TtVV/O2tvlogo.png",О2ТВ
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/j9tVLnv7/mcm.png",MCM HD
 http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
@@ -21,7 +20,7 @@ http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/DPMMv8mk/ovaa.png",OVAA TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/4kanal-piatnica.png",4 канал
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/4kanal-piatnica.png",4 канал + Пятница
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://epg.iptvx.one/picons/prima.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
