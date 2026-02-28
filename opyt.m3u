@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,https://epg.itv.uz/epg.xml,https://epg.pw/xmltv/epg_UZ.xml.gz"
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PvmC26Pg/ru-dtrzona1.png",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/MDmGTJJq/Dim-Grad24.png" , ДимГрад 24
