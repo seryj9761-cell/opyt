@@ -43,9 +43,9 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" group-title="Rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/960px-Rai_Italia_-_Logo_2017.svg.png", Rai Italia
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai;Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
+#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai,Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
 http://157.143.44.195/play/a0dl
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai;Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
+#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai|Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai;Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
