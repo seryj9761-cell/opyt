@@ -104,9 +104,9 @@ http://157.143.44.195/play/a0eb
 #EXTINF:-1 tvg-id="27Twentyseven HD" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=15u2rIa2ucixdX_GypE7Qc5smbcPHyqaU",27 Twentyseven HD
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 
-#EXTINF:-1 tvg-id="Boing" group-title="Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Boing_-_Logo_2020.svg/960px-Boing_-_Logo_2020.svg.png", Boing
+#EXTINF:-1 tvg-id="Boing" group-title="Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/boing-it.png", Boing
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
-#EXTINF:-1 tvg-id="Boing" group-title="Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Boing_Italia_2016.png", Boing
+#EXTINF:-1 tvg-id="Boing" group-title="Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/boing-it.png", Boing
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 
 #EXTINF:-1 tvg-id="Canale 5" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1nyVA4ARFiC-M2y9852PQy_6X3HlgTH3E", Canale 5 HD
@@ -116,9 +116,9 @@ https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="Canale 5" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1nyVA4ARFiC-M2y9852PQy_6X3HlgTH3E", Canale 5 HD
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
 
-#EXTINF:-1 tvg-id="Cartoonito" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
-#EXTINF:-1 tvg-id="Cartoonito" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
 https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 
 
