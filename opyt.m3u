@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/seryj9761-cell/epg-italy/refs/heads/main/Italy.xml"
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel It" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel It
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel It" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel It
 https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
 
 
@@ -12,27 +12,28 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1 it
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137237.ts
-#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1 it
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
-#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1 it
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
 https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 
 
 
 
-#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2 it
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137240.ts
-#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2 it
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
 https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
-#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2 it
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
 #EXTINF:-1 tvg-id="IT - Food Network" group-title="Warner Bros. Discovery" tvg-logo="https://carandini.us/storage/quotes/foodnetwork_image_1669391635.png", Food Network
 http://157.143.44.195/play/a0ec
 #EXTINF:-1 tvg-id="IT - Food Network" group-title="Warner Bros. Discovery" tvg-logo="https://carandini.us/storage/quotes/foodnetwork_image_1669391635.png", Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
 
 #EXTINF:-1 tvg-id="Frisbee" group-title="Warner Bros. Discovery" tvg-logo="https://kids.kiddle.co/images/thumb/9/9a/FRISBEE_LOGO_2015.png/300px-FRISBEE_LOGO_2015.png", Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
