@@ -1,213 +1,58 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/seryj9761-cell/epg-italy/refs/heads/main/Italy.xml"
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television-thumbnail.png", Discovery Channel
+https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
+#EXTINF:-1 tvg-id="Discovery Dmax HD" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", DMAX
+http://157.143.44.195/play/a0e0
+#EXTINF:-1 tvg-id="Discovery Dmax HD" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137237.ts
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1
+https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 1
+https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 
 
 
-#EXTINF:-1 tvg-id="cielo" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cielo_TV_logo_2013.svg/330px-Cielo_TV_logo_2013.svg.png", SKY Cielo
-http://157.143.44.195/play/a0ct
-#EXTINF:-1 tvg-id="cielo" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cielo_TV_logo_2013.svg/330px-Cielo_TV_logo_2013.svg.png", SKY Cielo
-https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
-#EXTINF:-1 tvg-id="cielo" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cielo_TV_logo_2013.svg/330px-Cielo_TV_logo_2013.svg.png", SKY Cielo
-https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 
-#EXTINF:-1 tvg-id="Sky TG24" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-tg24-it.png", SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
-#EXTINF:-1 tvg-id="Sky TG24" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-tg24-it.png", SKY TG 24
-https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137240.ts
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2
+https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png", Eurosport 2
+https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
-#EXTINF:-1 tvg-id="TV8" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/tv8-it.png", SKY TV8
-https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d
-#EXTINF:-1 tvg-id="TV8" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/tv8-it.png", SKY TV8
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
+#EXTINF:-1 tvg-id="IT - Food Network" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Food-network_color.svg/330px-Food-network_color.svg.png", Food Network
+http://157.143.44.195/play/a0ec
+#EXTINF:-1 tvg-id="IT - Food Network" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Food-network_color.svg/330px-Food-network_color.svg.png", Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="Frisbee" group-title="Warner Bros. Discovery;Per bambini" tvg-logo="https://kids.kiddle.co/images/thumb/9/9a/FRISBEE_LOGO_2015.png/300px-FRISBEE_LOGO_2015.png", Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-atlantic-it.png", SKY ATLANTIC
-https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-atlantic-it.png", SKY ATLANTIC
-https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 
-#EXTINF:-1 tvg-id="Sky Crime" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-crime-it.png", SKY CRIME
-https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
+#EXTINF:-1 tvg-id="Giallo" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Giallo_-_logo_%28Italy%2C_2013-%29.svg/250px-Giallo_-_logo_%28Italy%2C_2013-%29.svg.png", Giallo 
+http://157.143.44.195/play/a0d6
+#EXTINF:-1 tvg-id="Giallo" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Giallo_-_logo_%28Italy%2C_2013-%29.svg/250px-Giallo_-_logo_%28Italy%2C_2013-%29.svg.png", Giallo 
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1 tvg-id="HGTV" group-title="Warner Bros. Discovery" tvg-logo="https://www.pngfind.com/pngs/m/207-2078887_hgtv-logo-png-transparent-home-garden-tv-logo.png", HGTV
+http://157.143.44.195/play/a0ej
+#EXTINF:-1 tvg-id="HGTV" group-title="Warner Bros. Discovery" tvg-logo="https://www.pngfind.com/pngs/m/207-2078887_hgtv-logo-png-transparent-home-garden-tv-logo.png", HGTV
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="K2" group-title="Warner Bros. Discovery" tvg-logo="https://e7.pngegg.com/pngimages/888/638/png-clipart-k2-italy-television-channel-discovery-networks-emea-italy-television-angle.png", K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-id="Motor Trend" group-title="Warner Bros. Discovery" tvg-logo="https://site-assets.evgo.com/f/78437/512x512/e9d45263e2/motor-trend-logo-3.png", Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1 tvg-id="Nove" group-title="Warner Bros. Discovery" tvg-logo="https://www.mondomobileweb.it/wp-content/uploads/2017/01/nove.png", NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="Real Time" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/b/bf/20110805223421%21Real_time_new_logo.png", Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-id="Warner TV" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV HD
+http://157.143.44.195/play/a0f2
+#EXTINF:-1 tvg-id="VH1" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/330px-VH1_2020.svg.png",VH1 ITA
+http://157.143.44.195/play/a0eh
 
-#EXTINF:-1 tvg-id="Sky Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-uno-it.png", SKY UNO
-https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-#EXTINF:-1 tvg-id="Sky Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-uno-it.png", SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
-
-#EXTINF:-1 tvg-id="Sky Serie" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-serie-it.png", SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-
-#EXTINF:-1 tvg-id="Sky Arte" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-serie-it.png", SKY ARTE
-
-#EXTINF:-1 tvg-id="Sky Documentaries" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-documentaries-it.png", SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-
-#EXTINF:-1 tvg-id="Sky Investigation" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-investigation-it.png", SKY INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
-
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
-
-#EXTINF:-1 tvg-id="Sky Cinema Collection" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-collection-hz-it.png", SKY CINEMA COLLECTION
-https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
-#EXTINF:-1 tvg-id="Sky Cinema Collection" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-collection-hz-it.png", SKY CINEMA COLLECTION
-https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
-
-#EXTINF:-1 tvg-id="Sky Cinema Comedy" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-comedy-hz-it.png", SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="Sky Cinema Comedy" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-comedy-hz-it.png", SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
-
-#EXTINF:-1 tvg-id="Sky Cinema Drama" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-drama-hz-it.png", SKY CINEMA DRAMA
-https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
-
-#EXTINF:-1 tvg-id="Sky Cinema Due" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-due-hz-it.png", SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
-#EXTINF:-1 tvg-id="Sky Cinema Due" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-due-hz-it.png", SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-family-hz-it.png", SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-family-hz-it.png", SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
-
-#EXTINF:-1 tvg-id="Sky Cinema Romance" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-romance-hz-it.png", SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
-#EXTINF:-1 tvg-id="Sky Cinema Romance" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-romance-hz-it.png", SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
-
-#EXTINF:-1 tvg-id="Sky Cinema Suspense" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-suspense-hz-it.png", SKY CINEMA SUSPENSE
-https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
-#EXTINF:-1 tvg-id="Sky Cinema Suspense" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-suspense-hz-it.png", SKY CINEMA SUSPENSE
-https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/SKY_PRIMAFILA_1_HD.png", SKY PRIMAFILA 1
-https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/SKY_PRIMAFILA_1_HD.png", SKY PRIMAFILA 1
-https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_2_HD.png", SKY PRIMAFILA 2
-https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_2_HD.png", SKY PRIMAFILA 2
-https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SKY_PRIMAFILA_3_HD.png", SKY PRIMAFILA 3
-https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SKY_PRIMAFILA_3_HD.png", SKY PRIMAFILA 3
-https://vavoo.to/vavoo-iptv/play/573618724778189abe38c
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/SKY_PRIMAFILA_4_HD.png", SKY PRIMAFILA 4
-https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/SKY_PRIMAFILA_4_HD.png", SKY PRIMAFILA 4
-https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SKY_PRIMAFILA_5_HD.png", SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SKY_PRIMAFILA_5_HD.png", SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_6_HD.png", SKY PRIMAFILA 6
-https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_6_HD.png", SKY PRIMAFILA 6
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/SKY_PRIMAFILA_7_HD.png", SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/SKY_PRIMAFILA_7_HD.png", SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/SKY_PRIMAFILA_8_HD.png", SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/SKY_PRIMAFILA_8_HD.png", SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/SKY_PRIMAFILA_9_HD.png", SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/SKY_PRIMAFILA_9_HD.png", SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/SKY_PRIMAFILA_10_HD.png", SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/SKY_PRIMAFILA_10_HD.png", SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SKY_PRIMAFILA_11_HD.png", SKY PRIMAFILA 11
-https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/SKY_PRIMAFILA_12_HD.png", SKY PRIMAFILA 12
-https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/SKY_PRIMAFILA_13_HD.png", SKY PRIMAFILA 13
-https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SKY_PRIMAFILA_14_HD.png", SKY PRIMAFILA 14
-https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/SKY_PRIMAFILA_15_HD.png", SKY PRIMAFILA 15
-https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SKY_PRIMAFILA_16_HD.png", SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/SKY_PRIMAFILA_17_HD.png", SKY PRIMAFILA 17
-https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
-
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://www.europeanvodcoalition.com/content/images/size/w600/2025/09/skyshowtime.png", SKYSHOWTIME
-https://vavoo.to/vavoo-iptv/play/287379323134c651595371
-
-#EXTINF:-1 tvg-id="Sky Sport24" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-24-it.png", SKY SPORT 24
-https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
-#EXTINF:-1 tvg-id="Sky Sport24" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-24-it.png", SKY SPORT 24
-https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-
-#EXTINF:-1 tvg-id="Sky Sport Arena" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-arena-it.png", SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="Sky Sport Arena" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-arena-it.png", SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-calcio-it.png", SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="Sky Sport Calcio" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-calcio-it.png", SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-
-#EXTINF:-1 tvg-id="Sky Sport F1" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-f1-it.png", SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
-
-#EXTINF:-1 tvg-id="Sky Sport Max" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-max-it.png", SKY SPORT MAX
-https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="Sky Sport Max" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-max-it.png", SKY SPORT MAX
-https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-golf-it.png", SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-motogp-it.png", SKY SPORT MOTO GP
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-
-#EXTINF:-1 tvg-id="Sky Sport NBA" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-nba-it.png", SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
-
-#EXTINF:-1 tvg-id="Sky Sport NBA" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-nba-it.png", SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-
-#EXTINF:-1 tvg-id="Sky Sport Tennis" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-tennis-it.png", SKY SPORT TENNIS 
-https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
-
-#EXTINF:-1 tvg-id="Sky Sport Tennis" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-tennis-it.png", SKY SPORT TENNIS 
-https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
-
-#EXTINF:-1 tvg-id="Sky Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-uno-it.png", SKY SPORT UNO
-https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
-
-#EXTINF:-1 tvg-id="Sky Uno" group-title="Sky Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-uno-it.png", SKY SPORT UNO
-https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-
+#EXTINF:-1 tvg-id="" group-title="Warner Bros. Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://157.143.44.195/play/a0eh
