@@ -1,99 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/seryj9761-cell/epg-italy/refs/heads/main/Italy.xml"
 
-#EXTINF:-1 tvg-id="Rai 1 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1xtOaUHDIb2vfwgbwT2azzw22gyuCdKvY", Rai 1 
-http://157.143.44.195/play/a04k
-#EXTINF:-1 tvg-id="Rai 1 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1xtOaUHDIb2vfwgbwT2azzw22gyuCdKvY", Rai 1 
-https://vavoo.to/vavoo-iptv/play/875922788627becc98639
-#EXTINF:-1 tvg-id="Rai 1 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1xtOaUHDIb2vfwgbwT2azzw22gyuCdKvY", Rai 1 
-https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
-
-#EXTINF:-1 tvg-id="Rai 2 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1iG4nZScH_iW3SY_bQM4rz94yc_b-nXSE", Rai 2 
-http://157.143.44.195/play/a04l
-#EXTINF:-1 tvg-id="Rai 2 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1iG4nZScH_iW3SY_bQM4rz94yc_b-nXSE", Rai 2 
-https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
-#EXTINF:-1 tvg-id="Rai 2 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1iG4nZScH_iW3SY_bQM4rz94yc_b-nXSE", Rai 2 
-https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
-
-#EXTINF:-1 tvg-id="Rai 3 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=13jQMn8gYsRr5qSDlWTZ02Qb_l5Lq955D", Rai 3
-http://157.143.44.195/play/a040
-#EXTINF:-1 tvg-id="Rai 3 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=13jQMn8gYsRr5qSDlWTZ02Qb_l5Lq955D", Rai 3
-https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
-#EXTINF:-1 tvg-id="Rai 3 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=13jQMn8gYsRr5qSDlWTZ02Qb_l5Lq955D", Rai 3
-https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
-
-#EXTINF:-1 tvg-id="Rai 4 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1ooWfE6wWQORC6GYrgdpIdRrjvdLh-AmZ", Rai 4
-http://157.143.44.195/play/a0dh
-#EXTINF:-1 tvg-id="Rai 4 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1ooWfE6wWQORC6GYrgdpIdRrjvdLh-AmZ", Rai 4
-https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
-#EXTINF:-1 tvg-id="Rai 4 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1ooWfE6wWQORC6GYrgdpIdRrjvdLh-AmZ", Rai 4
-https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-
-#EXTINF:-1 tvg-id="Rai 5 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1wjWyEMrpFvL1PsRGvFZ4yks7TwbzAQX1", Rai 5
-http://157.143.44.195/play/a076
-#EXTINF:-1 tvg-id="Rai 5 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1wjWyEMrpFvL1PsRGvFZ4yks7TwbzAQX1", Rai 5
-https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
-#EXTINF:-1 tvg-id="Rai 5 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1wjWyEMrpFvL1PsRGvFZ4yks7TwbzAQX1", Rai 5
-https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
-
-#EXTINF:-1 tvg-id="Rai Gulp HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1toxRYTeY5uFq8QBstOcr7VAL9iUuf6sF", Rai Gulp
-http://157.143.44.195/play/a0dk
-#EXTINF:-1 tvg-id="Rai Gulp HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1toxRYTeY5uFq8QBstOcr7VAL9iUuf6sF", Rai Gulp
-https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
-#EXTINF:-1 tvg-id="Rai Gulp HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1toxRYTeY5uFq8QBstOcr7VAL9iUuf6sF", Rai Gulp
-https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-
-#EXTINF:-1 tvg-id="" group-title="Rai" tvg-logo="https://toppng.com/uploads/preview/rai-covers-rio-2016-with-brainstorms-virtual-studio-rai-italy-logo-11563167632qweiovqocu.png", Rai Italia
-https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-http://157.143.44.195/play/a0dl
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
-
-
-#EXTINF:-1 tvg-id="Rai News 24 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1fdDXEK3ax6mTGp8XCniwMdGnOIJdZIpu", Rai News 24
-http://157.143.44.195/play/a041
-#EXTINF:-1 tvg-id="Rai News 24 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1fdDXEK3ax6mTGp8XCniwMdGnOIJdZIpu", Rai News 24
-https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
-#EXTINF:-1 tvg-id="Rai News 24 HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1fdDXEK3ax6mTGp8XCniwMdGnOIJdZIpu", Rai News 24
-https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
-
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-http://157.143.44.195/play/a0dj
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
-
-#EXTINF:-1 tvg-id="Rai Scuola" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1X0v5PuGPcbXhGQHuidgZoFm9CDPdvLpk", Rai Scoula
-http://157.143.44.195/play/a077
-#EXTINF:-1 tvg-id="Rai Scuola" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1X0v5PuGPcbXhGQHuidgZoFm9CDPdvLpk", Rai Scoula
-https://vavoo.to/vavoo-iptv/play/20077985117d0ff1cfe128
-#EXTINF:-1 tvg-id="Rai Scuola" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1X0v5PuGPcbXhGQHuidgZoFm9CDPdvLpk", Rai Scoula
-https://vavoo.to/vavoo-iptv/play/1886684667a4cfd0e271d1
-
-#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
-http://157.143.44.195/play/a069
-#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
-https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31
-#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
-https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
-
-#EXTINF:-1 tvg-id="Rai Storia HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1Bp4TvsmPJUbSq8ktht5N8VakFPHlETDE", Rai Storia
-http://157.143.44.195/play/a0di
-#EXTINF:-1 tvg-id="Rai Storia HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1Bp4TvsmPJUbSq8ktht5N8VakFPHlETDE", Rai Storia
-https://vavoo.to/vavoo-iptv/play/788387936f9a9f4a81c4
-#EXTINF:-1 tvg-id="Rai Storia HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1Bp4TvsmPJUbSq8ktht5N8VakFPHlETDE", Rai Storia
-https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
-
-#EXTINF:-1 tvg-id="Rai yoyo HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1EuZYO4TMLDfXaJinZ2UVjchU2pxpf7HM", Rai Yoyo
-http://157.143.44.195/play/a0dq
-#EXTINF:-1 tvg-id="Rai yoyo HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1EuZYO4TMLDfXaJinZ2UVjchU2pxpf7HM", Rai Yoyo
-https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
-#EXTINF:-1 tvg-id="Rai yoyo HD" group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1EuZYO4TMLDfXaJinZ2UVjchU2pxpf7HM", Rai Yoyo
-
 #EXTINF:-1 tvg-id="20Mediaset HD" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1OEqVzLLqJXHI-27U-5uhB2yZKdnJgvXP", 20 Mediaset HD
 http://157.143.44.195/play/a0cx
 #EXTINF:-1 tvg-id="20Mediaset HD" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1OEqVzLLqJXHI-27U-5uhB2yZKdnJgvXP", 20 Mediaset HD
@@ -116,9 +22,9 @@ https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="Canale 5" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1nyVA4ARFiC-M2y9852PQy_6X3HlgTH3E", Canale 5 HD
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
 
-#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", Cartoonito it
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
-#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito it" group-title="Mediaset" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/59/C_12_imageGallery_2_19_image.png", Cartoonito it
 https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 
 
@@ -138,11 +44,7 @@ https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 
 #EXTINF:-1 tvg-id="Iris HD.it" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=14KqZjWvHwPvuQ3sMp_U0efozKZ8-joFJ",Iris
 http://157.143.44.195/play/a0e4
-#EXTINF:-1 tvg-id="Iris HD.it" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=14KqZjWvHwPvuQ3sMp_U0efozKZ8-joFJ",Iris
-http://157.143.44.195/play/a0e4
 #EXTINF:-1 tvg-id="Iris HD.it" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=14KqZjWvHwPvuQ3sMp_U0efozKZ8-joFJ",Iris
-https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
-#EXTINF:-1 tvg-id="Iris HD.it" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=14KqZjWvHwPvuQ3sMp_U0efozKZ8-joFJ",Iris
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 
 #EXTINF:-1 tvg-id="Italia 1" group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1gjH2CxwaA0lbdIDluCvvkwBXQJUb_x94", Italia 1 HD
