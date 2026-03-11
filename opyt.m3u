@@ -1,186 +1,112 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/seryj9761-cell/epg-italy/refs/heads/main/Italy.xml"
-#EXTINF:-1 tvg-id="Giallo" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/giallo-it.png", Giallo 
-http://157.143.44.195/play/a0d6
-#EXTINF:-1 tvg-id="Giallo" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/giallo-it.png", Giallo 
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1 tvg-id="ACI Sport Tv" group-title="Sport" tvg-logo="https://www.acisport.it/img/logo_acisport.png", ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:-1 tvg-id="La7 Cinema" group-title="Cinema" tvg-logo="https://static.cairorcsmedia.it/wp-content/uploads/2025/09/LOGO-LA7-CINEMA-SITO-trasp-300x300.png", La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sportitaliadd.akamaized.net/video_0/custom/logo/logo_footer_49.512.png", Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 
-#EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Action Movies Italy
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="ZONA DAZN" group-title="Sport" tvg-logo="", ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 
-#EXTINF:-1 tvg-id="Film Asiatici - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Asian Cinema Italy
-https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
-
-#EXTINF:-1 tvg-id="Commedia - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Comedy Movies Italy
-https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-
-#EXTINF:-1 tvg-id="Serie Crime - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Crime Series Italy
-https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
-
-#EXTINF:-1 tvg-id="Dramma - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Drama Movies Italy
-https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-
-#EXTINF:-1 tvg-id="Family - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Family Movies Italy
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-
-#EXTINF:-1 tvg-id="Romance - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Romance Movies Italy
-https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-
-#EXTINF:-1 tvg-id="Fantascienza - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Sci-Fi Italy
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-
-#EXTINF:-1 tvg-id="Film Top - Rakuten TV" group-title="Cinema" tvg-logo="https://i.imgur.com/Meew6eX.png", Rakuten TV Top Movies Italy
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Sport" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137237.ts
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Sport" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
+https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
+#EXTINF:-1 tvg-id="Eurosport Italia" group-title="Sport" tvg-logo="https://e7.pngegg.com/pngimages/318/502/png-clipart-eurosport-2-logo-television-eurosport-1-bein-sports-1-television-blue.png", Eurosport 1 it
+https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 
 
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-http://157.143.44.195/play/a0dl
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
-#EXTINF:-1 tvg-id="Rai Movie HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
-https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137240.ts
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
+https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
+#EXTINF:-1 tvg-id="Eurosport 2 Italia" group-title="Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png", Eurosport 2 it
+https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-http://157.143.44.195/play/a0dj
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
-#EXTINF:-1 tvg-id="Rai Premium HD" group-title="Cinema" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
-https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
+#EXTINF:-1 group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/81IDMBy+TUL.png", Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-atlantic-it.png", SKY ATLANTIC
-https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-atlantic-it.png", SKY ATLANTIC
-https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
+#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Sport" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
+http://157.143.44.195/play/a069
+#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Sport" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
+https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31
+#EXTINF:-1 tvg-id="Rai Sport HD" group-title="Sport" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
+https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
+
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4R5MqD9jUW2T83Mve2p801Xme6mrGeY2bQ&s", RedBull TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Horse TV HD" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4qt9v0php74F7vN25779JZLQ94UbrnGTkQ&s", Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Milan TV" group-title="Sport" tvg-logo="", Milan TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 
-#EXTINF:-1 tvg-id="Sky Serie" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-serie-it.png", SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-action-hz-it.png", SKY CINEMA ACTION
-https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://motori.tv/wp-content/uploads/2023/05/LOGO-MTV-PER-SITO-1400x373.png", Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky Cinema Collection" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-collection-hz-it.png", SKY CINEMA COLLECTION
-https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
-#EXTINF:-1 tvg-id="Sky Cinema Collection" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-collection-hz-it.png", SKY CINEMA COLLECTION
-https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
+#EXTINF:-1 tvg-id="Sky Sport24" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-24-it.png", SKY SPORT 24
+https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
+#EXTINF:-1 tvg-id="Sky Sport24" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-24-it.png", SKY SPORT 24
+https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 
-#EXTINF:-1 tvg-id="Sky Cinema Comedy" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-comedy-hz-it.png", SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="Sky Cinema Comedy" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-comedy-hz-it.png", SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
+#EXTINF:-1 tvg-id="Sky Sport Arena" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-arena-it.png", SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="Sky Sport Arena" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-arena-it.png", SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 
-#EXTINF:-1 tvg-id="Sky Cinema Drama" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-drama-hz-it.png", SKY CINEMA DRAMA
-https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
+#EXTINF:-1 tvg-id="Sky Sport Calcio" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-calcio-it.png", SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="Sky Sport Calcio" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-calcio-it.png", SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 
-#EXTINF:-1 tvg-id="Sky Cinema Due" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-due-hz-it.png", SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
-#EXTINF:-1 tvg-id="Sky Cinema Due" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-due-hz-it.png", SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="Sky Sport F1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-f1-it.png", SKY SPORT F1
+https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-family-hz-it.png", SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-family-hz-it.png", SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
+#EXTINF:-1 tvg-id="Sky Sport Max" group-title="Sporta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-max-it.png", SKY SPORT MAX
+https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
+#EXTINF:-1 tvg-id="Sky Sport Max" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-max-it.png", SKY SPORT MAX
+https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 
-#EXTINF:-1 tvg-id="Sky Cinema Romance" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-romance-hz-it.png", SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
-#EXTINF:-1 tvg-id="Sky Cinema Romance" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-romance-hz-it.png", SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
+#EXTINF:-1 tvg-id="Sky Sport Golf" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-golf-it.png", SKY SPORT GOLF
+https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 
-#EXTINF:-1 tvg-id="Sky Cinema Suspense" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-suspense-hz-it.png", SKY CINEMA SUSPENSE
-https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
-#EXTINF:-1 tvg-id="Sky Cinema Suspense" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-suspense-hz-it.png", SKY CINEMA SUSPENSE
-https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-motogp-it.png", SKY SPORT MOTO GP
+https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
-#EXTINF:-1 tvg-id="Sky Cinema Uno" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-cinema-uno-hz-it.png", SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
+#EXTINF:-1 tvg-id="Sky Sport NBA" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-nba-it.png", SKY SPORT NBA
+https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/SKY_PRIMAFILA_1_HD.png", SKY PRIMAFILA 1
-https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/SKY_PRIMAFILA_1_HD.png", SKY PRIMAFILA 1
-https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
+#EXTINF:-1 tvg-id="Sky Sport NBA" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-nba-it.png", SKY SPORT NBA
+https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 
-#EXTINF:-1 tvg-id="" group-title="SCinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_2_HD.png", SKY PRIMAFILA 2
-https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_2_HD.png", SKY PRIMAFILA 2
-https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
+#EXTINF:-1 tvg-id="Sky Sport Tennis" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-tennis-it.png", SKY SPORT TENNIS 
+https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SKY_PRIMAFILA_3_HD.png", SKY PRIMAFILA 3
-https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SKY_PRIMAFILA_3_HD.png", SKY PRIMAFILA 3
-https://vavoo.to/vavoo-iptv/play/573618724778189abe38c
+#EXTINF:-1 tvg-id="Sky Sport Tennis" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-tennis-it.png", SKY SPORT TENNIS 
+https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/SKY_PRIMAFILA_4_HD.png", SKY PRIMAFILA 4
-https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/SKY_PRIMAFILA_4_HD.png", SKY PRIMAFILA 4
-https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
+#EXTINF:-1 tvg-id="Sky Uno" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-uno-it.png", SKY SPORT UNO
+https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SKY_PRIMAFILA_5_HD.png", SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SKY_PRIMAFILA_5_HD.png", SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
+#EXTINF:-1 tvg-id="Sky Uno" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/f06ef0314a751ad72719aa16827536b84bb32d5c/countries/italy/sky-sport-uno-it.png", SKY SPORT UNO
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_6_HD.png", SKY PRIMAFILA 6
-https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SKY_PRIMAFILA_6_HD.png", SKY PRIMAFILA 6
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/SKY_PRIMAFILA_7_HD.png", SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/SKY_PRIMAFILA_7_HD.png", SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/SKY_PRIMAFILA_8_HD.png", SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/SKY_PRIMAFILA_8_HD.png", SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/SKY_PRIMAFILA_9_HD.png", SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/SKY_PRIMAFILA_9_HD.png", SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
+#EXTINF:-1 tvg-id="SI-SOLO-CALCIO" group-title="Sport" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png", SoloCalcio
+https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="SI-SOLO-CALCIO" group-title="Sport" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png", SoloCalcio
+https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
+#EXTINF:-1 tvg-id="Sport Italia" group-title="Sport" tvg-logo="https://www.icarus-sports.com/wp-content/uploads/2020/09/2ae554a4-ee72-4b9f-922e-0fd79a9ec1af.png", Sport Italia
+http://157.143.44.195/play/a0dc
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.icarus-sports.com/wp-content/uploads/2020/09/2ae554a4-ee72-4b9f-922e-0fd79a9ec1af.png", Sport Italia PUBBLICITA 
+https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/SKY_PRIMAFILA_10_HD.png", SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/SKY_PRIMAFILA_10_HD.png", SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SKY_PRIMAFILA_11_HD.png", SKY PRIMAFILA 11
-https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
 
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/SKY_PRIMAFILA_12_HD.png", SKY PRIMAFILA 12
-https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 
-#EXTINF:-1 tvg-id="" group-title="Sky Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/SKY_PRIMAFILA_13_HD.png", SKY PRIMAFILA 13
-https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
-
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SKY_PRIMAFILA_14_HD.png", SKY PRIMAFILA 14
-https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
-
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/SKY_PRIMAFILA_15_HD.png", SKY PRIMAFILA 15
-https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SKY_PRIMAFILA_16_HD.png", SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
-
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/SKY_PRIMAFILA_17_HD.png", SKY PRIMAFILA 17
-https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
-
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://www.europeanvodcoalition.com/content/images/size/w600/2025/09/skyshowtime.png", SKYSHOWTIME
-https://vavoo.to/vavoo-iptv/play/287379323134c651595371
-
-#EXTINF:-1 tvg-id="Warner TV" group-title="Cinema" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television.png", Warner TV HD
-http://157.143.44.195/play/a0f2
-
-#EXTINF:-1 tvg-id="VH1" group-title="Cinema" tvg-logo="https://e7.pngegg.com/pngimages/872/231/png-clipart-vh1-logo-tv-mtv-classic-graphics-vh1-logo-television-text.png",VH1 ITA
-http://157.143.44.195/play/a0eh
+#EXTINF:-1 tvg-id="Sport Italia" group-title="Sport" tvg-logo="https://www.confindustriaradiotv.it/wp-content/uploads/2022/05/Super-tennis.png", SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
